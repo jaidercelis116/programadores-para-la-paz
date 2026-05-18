@@ -1,0 +1,12 @@
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt comandos-terminal.txt reflexion-semana2.txt
+ls
+notepad preguntas-semana2.txt
+notepad comandos-terminal.txt
+notepad reflexion-semana2.txt
+cd ..
+pwd
+git add .
+git commit -m "Actividad semana 2"
+git push
