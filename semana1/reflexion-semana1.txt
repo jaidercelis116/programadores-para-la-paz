@@ -1,0 +1,8 @@
+El uso responsable de la informción en internet es importante, ya que permite compartir y consumir contenido de manera crítica,
+verificando fuentes antes de difundir datos falsos o engañosos. Esto se relaciona con la particiapción ciudadana, ya que
+en los espacios digitales muchas personas pueden opinar, debatir y al mismo tiempo aportar temas sociales o comunitarios, 
+pero se debe realizar con respeto y cierto nivel de responsabilidad. Asimismo, en el trabajo técnico, las herramientas como Git 
+ayudan a organizar proyectos de forma colaborativa y ordenada, permitiendo registrar cambios, coordinar tareas y trabajar 
+en equipo sin llegar a perder información. Así como en internet se requiere responsabilidad para compartir información, 
+en proyectos técnicos se necesita disciplina para poder gestionar cambios y así colaborar correctamente. En ambos casos, el 
+objetivo es construir entornos digitales confiables, participativos y eficientes para la comunidad.
