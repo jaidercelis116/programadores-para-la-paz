@@ -1,0 +1,13 @@
+Se envió una petición POST a http://localhost:3000/registro con el siguiente JSON
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor respondió con:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

@@ -1,0 +1,4 @@
+{
+  "tipo": "Agua potable",
+  "descripcion": "Los vecinos del barrio resportan que llevan tres días sin agua potable en sus hogares."
+}
