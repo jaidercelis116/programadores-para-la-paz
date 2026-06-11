@@ -1,0 +1,5 @@
+Se envió una petición POST a http://localhost:3000/reportes con un JSON y el servidor respondió confirmando que el reporte 
+fue registrado.
+
+Luego se consultó la ruta GET http://localhost:3000/reportes y el servidor devolvió la lista con todos los resportes
+registrados.

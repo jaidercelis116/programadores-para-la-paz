@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad",
+  "descripcion": "Presencia de personas sospechosas en el parque principal durante las noches."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Salud",
+  "descripcion": "Acumulación de agua estancada en la calle generando criaderos de mosquitos."
+}
