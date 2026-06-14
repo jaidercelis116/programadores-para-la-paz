@@ -1,0 +1,8 @@
+uname -a: Muestra información del sistema operativo, el nombre del equipo, la versión de jernel y la arquitectura del 
+procesador.
+En esta caso muestra que el sistema Windows 10 con Git Bash (MINGW64)
+
+whoami: Muestra el nombre del usuario actual que está usando la terminal. En este caso BITMIKE
+
+Es util conocer esta información cuando se administra un servidor porque pemite identificar qué sistema operativo esta 
+corriendo, qué usuario tiene acceso y verificar que el entorno es el correcto antes de ejecutar comandos importantes.
