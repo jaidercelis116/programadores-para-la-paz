@@ -1,0 +1,11 @@
+El login es el proceso mediante el cual un usuario ingresa sus credenciales para identificarse ante la plataforma y acceder 
+a sus funciones.
+
+Algunas rutas deben estar protegidas porque contienen información privada de la comunidad, registros internos o acciones 
+administrativas que no deberían estar disponibles para cualquier persona sin autorización.
+
+Por ejemplo, la ruta para eliminar reportes o ver datos de usuarios solo debería estar disponible para administradores 
+autenticados.
+
+La información que no debe exponerse públicamente incluye:
+Contraseñas, documentos de identidad, números de teléfono, direcciones personales, tokens de acceso y claves de API.

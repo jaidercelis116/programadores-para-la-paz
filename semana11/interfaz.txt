@@ -1,0 +1,12 @@
+La interfaz de la plataforma sería simple y fácil de usar para cualquier ciudadano.
+
+Tendría una sección principal para crear un nuevo reporte comunitario con campos para ingresar el título, la categoría, 
+la descripción y la fecha.
+
+También tendría una lista de reportes registrados donde los usuarios podrían ver todos los casos activos en su comunidad.
+
+Cada reporte tendría un botón para dar seguimiento y un contador que mostraría cuántas personas han respaldado ese reporte.
+
+Habría una sección de estado que mostraría si el reporte está pendiente, en proceso o resulto.
+
+La interfaz no mostraría información privada de los ciudadanos que registraron los reportes, protegiendo así su privacidad.

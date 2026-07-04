@@ -1,0 +1,24 @@
+Entidad: Reporte
+
+Campos principales:
+-id
+-titulo
+-categoria
+-estado
+-fecha_creacion
+
+Propósito:
+Almacenar los reportes ciudadanos sobre problemas en la comunidad como daños en la infraestructura, problemas ambientales 
+o de seguridad.
+
+Entidad: Seguimiento
+
+Campos principales:
+-id
+-reporte_id
+-responsable
+-observacion
+-fecha_actualizacion
+
+Propósito:
+Registrar el avance y las acciones tomadas sobre cada reporte para garantizar la trazabilidad y transparencia del proceso.
