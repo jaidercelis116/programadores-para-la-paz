@@ -1,0 +1,14 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Registrar irregularidades con fotografias y evidencia.
+2. Generar informes semanales para presentar ante autoridades.
+
+¿Por qué son las mas importantes?
+Son las más importantes porque sin registro de evidencia y sin informes no hay forma de demostrar las irregularidades ni de 
+exigir respuestas a las autoridades.
+
+Definición de terminado:
+Una tarea está terminada cuando:
+1. Funciona correctamente sin errores.
+2. Fue probada por al menos un miembro del equipo.
+3. Quedó registrada y documentada en Git.
+4. El resultado fue revisado y aprobado por el coordinador.

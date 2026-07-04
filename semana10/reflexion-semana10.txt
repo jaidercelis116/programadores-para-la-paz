@@ -1,0 +1,8 @@
+Las metodologías ágiles permiten organizar el trabajo de manera más eficiente, priorizando las tareas según las necesidades 
+de la comunidad. Además, facilitan la colaboración y el seguimiento continuo de las actividades. La automatización ayuda 
+a reducir el tiempo dedicado a tareas repetitivas, lo que mejora la eficiencia y disminuye los errores. Herramientas como 
+n8n permiten enviar notificaciones y coordinar procesos de forma automática. Por su parte, Telegram es un canal util 
+para compartir información, convocatorias y avisas de manera rápida con los participantes. La combinación de estas 
+herramientas fortalece la comunicación y la organización comunitaria. También favorece una mayor participación al 
+mantener informadas a las personas. En conjunto, contribuyen a desarrollar procesos ciudadanos más transparentes, 
+coordinados y eficientes.

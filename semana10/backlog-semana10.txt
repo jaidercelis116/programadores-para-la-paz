@@ -1,0 +1,9 @@
+Como veedor quiero fotografiar y registrar irregularidades para documentar evidencia de posibles faltas.
+
+Como líder comunitario quiero generar informes semanales para presentarlos ante las autoridades locales.
+
+Como ciudadano quiero recibir notificaciones sobre el estado de mis denuncias para saber si están siendo atendidas.
+
+Como coordinador quiero asignar casos a diferentes miembros del equipo para distribuir mejor el trabajo.
+
+Como administrador quiero bloquear usuarios malintencionados para proteger la integridad de la plataforma.
