@@ -1,0 +1,20 @@
+Flujo del sistema Petición en 3 Clics:
+
+Paso 1:
+Un líder comunitario ingresa a la plataforma y registra una nueva causa indicando el problema que afecta a su barrio.
+
+Paso 2:
+La causa queda almacenada en la base de datos con fecha, título y descripción del problema reportado.
+
+Paso 3:
+Los vecinos del barrio ingresan a la plataforma y expresan su apoyo a la causa con un solo clic.
+
+Paso 4:
+El sistema registra cada apoyo y actualiza automáticamente el contador de personas que respaldan la causa.
+
+Paso 5:
+Cuando la causa alcanza suficientes apoyos, el sistema genera automáticamente un documento PDF formal con todos los 
+respaldos recibidos.
+
+Paso 6:
+El documento PDF es enviado por correo o descargado para ser presentado ante las autoridades correspondientes.

@@ -1,0 +1,11 @@
+Pregunta 1:¿Qué representa el sistema “Petición en 3 Clics”?
+Respuesta: B
+
+Pregunta 2:¿Cuál es el propósito de generar un documento PDF automáticamente en una plataforma?
+Respuesta: B
+
+Pregunta 3:¿Por qué es importante minimizar los datos personales en sistemas comunitarios?
+Respuesta: A
+
+Pregunta 4: ¿Qué función puede cumplir n8n o Telegram en una plataforma comunitaria?
+Respuesta: A

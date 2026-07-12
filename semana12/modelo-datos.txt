@@ -1,0 +1,24 @@
+Entidad: Petición
+
+Campos principales:
+-id
+-título
+-problema
+-barrio
+-fecha_registro
+
+Propósito:
+Almacenar las peticiones creadas por los líderes comunitarios sobre problemas que afectan a su comunidad, permitiendo hacer 
+seguimiento y generar documentos formales.
+
+Entidad: Respaldo
+
+Campos principales:
+-id
+-peticion_id
+-alias
+-fecha_respaldo
+
+Propósito:
+Registar los respaldos que recibe cada petición por parte de los ciudadanos, contabilizando el apoyo comunitario sin 
+almacenar datos persobales sensibles.

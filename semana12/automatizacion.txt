@@ -1,0 +1,19 @@
+Automatización con n8n y Telegram:
+
+Evento que activa la automatización:
+Cuando una petición comunitaria alcanza 50 respaldos registrados en la plataforma.
+
+Mensaje que se envía a Telegram:
+"La petición ha alcanzado 50 respaldos.
+El documento formal está listo para ser generado y presentado."
+
+Por qué se usa esta automatización:
+Permite que el equipo coordinador sea notificado de forma inmediata sin necesidad de revisar manualmente la plataforma, 
+agilizando el proceso de seguimiento comunitario.
+
+Información que no debe enviarse por seguridad:
+-nombres completos de ciudadanos que respaldaron.
+-numeros de documentos de identidad.
+-direcciones o ubicaciones exactas de los participantes.
+-numeros de telefono o correos electronicos.
+-contraseñas o tokens de acceso al sistema. 
